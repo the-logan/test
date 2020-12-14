@@ -5,3 +5,6 @@ float del(a, b){ return a-b }
 float mul(a, b){ return a*b }
 float dib(a, b){ if(a not 0) return a/b else return null }
 
+NULL nullable(a) { return isNullable(a) }
+
+Value valuaizer(a) { valuaize(a) }
